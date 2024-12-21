@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MERN-ChatApp
 A real-time chat application built using the MERN stack.
 =======
@@ -24,4 +24,4 @@ npm run build
 ```shell
 npm start
 ```
->>>>>>> 701abb6086ec50f5ea1b626949edcb3d0bf39d1b
+
